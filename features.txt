@@ -1,0 +1,10 @@
+    - Get weather Update
+    - Play video on youtube
+    - Search article on wikipedia
+    - Increase and decrease system volume
+    - Mute/unmute yourself
+
+Currently Working on 
+    - Increase/decrease system volume
+    - Changing volume from dB to normal scale
+    
